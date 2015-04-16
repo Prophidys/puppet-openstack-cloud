@@ -40,7 +40,7 @@ mod 'keystone',
   :ref => '45ac386600c0e79942834da8b69bf09a4809d7bd'
 mod 'neutron',
   :git => 'git://github.com/enovance/puppet-neutron.git',
-  :ref => 'cefbdc897d70fd1c1fc44e372f05336674efd940'
+  :ref => '0136c5c96eba652882008ceb04ee153731708288'
 mod 'nova',
   :git => 'git://github.com/enovance/puppet-nova.git',
   :ref => '3ffc5a263113232230b69e621e1b6167f2148390'
